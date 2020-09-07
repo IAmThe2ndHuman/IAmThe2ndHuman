@@ -28,5 +28,6 @@ If my commit count seems awfully low, it's because most of my repositories are p
 I really, r e a l l y like the letter H. 
 
 GitHub Stats moment :flushed::flushed::flushed::flushed::flushed:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamthe2ndhuman)](https://github.com/anuraghazra/github-readme-stats)
 
