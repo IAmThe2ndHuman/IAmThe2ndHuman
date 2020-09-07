@@ -23,7 +23,7 @@ Before I started learning how to use Flutter, I used this neat website called [K
 
 # Other stuff
 ## Notes
-If my commit count seems awfully low, it's because most of my repositories are private so they don't show up in my commit count. Don't worry, I'm not inactive :pensive:.
+If my commit count seems awfully low, it's because it is...:pensive: I should use this site more often..
 
 I really, r e a l l y like the letter H. 
 
