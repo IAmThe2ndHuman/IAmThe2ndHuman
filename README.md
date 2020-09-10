@@ -31,6 +31,8 @@ GitHub Stats moment :flushed::flushed::flushed::flushed::flushed:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamthe2ndhuman)](https://github.com/anuraghazra/github-readme-stats)
 
+This "Top Languages" thing is horrifically inaccurate because most of my projects are private and/or are in an organization :flushed:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthe2ndhuman)](https://github.com/anuraghazra/github-readme-stats)
 
 
