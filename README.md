@@ -2,8 +2,8 @@
 # Introduction
 I am a human being who lives on Earth. Funny, right?
 ## About me
-I'm a 15 year old male living in a country that's not the USA :flushed:.
-I like programming in Python and I'm currently learning Dart so that's a plus.
+I'm a 15 year old male living in a country that's not the USA.
+I like programming in Python (sorry JS nerds) and I'm currently learning Dart so that's a plus.
 
 To check out exactly what I've done over the years, visit the timeline on my [website](https://iamthe2ndhuman.github.io/timeline.html)!
 
