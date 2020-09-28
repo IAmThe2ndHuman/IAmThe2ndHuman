@@ -9,7 +9,7 @@ I like programming in Python (sorry JS nerds) and I'm currently learning Dart so
 I like to make stuff!
 
 ## Discord Bots
-discord.py is an awesome python library (sorry discord.js fans)
+discord.py is epic
  - Meon ([Website](https://iamthe2ndhuman.github.io/meon)) ([top.gg](https://top.gg/bot/713066005911568424))
  - Shiba ([top.gg](https://top.gg/bot/718769183885754380))
  - Cloudy ([top.gg](https://top.gg/bot/739424025205538817))
