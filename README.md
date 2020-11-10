@@ -12,7 +12,7 @@ I like to make stuff!
 discord.py is epic
  - Meon ([Website](https://iamthe2ndhuman.github.io/meon)) ([top.gg](https://top.gg/bot/713066005911568424))
  - Shiba ([top.gg](https://top.gg/bot/718769183885754380))
- - Cloudy ([top.gg](https://top.gg/bot/739424025205538817))
+ - I have more but they're private so go away :rage:
 ## Apps
 I'm fairly new to making apps for Android and iOS so don't expect much here for now.
 I will put the source code of apps I've made on GitHub. Head over to my repositories to check them out! (Not all of my apps will be available, sorry!)
@@ -25,12 +25,8 @@ If my commit count seems awfully low, it's because it is...:pensive: I should us
 
 I really, r e a l l y like the letter H. 
 
-GitHub Stats moment :flushed::flushed::flushed::flushed::flushed:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamthe2ndhuman&count_private=true&show_icons=true&custom_title=my%20trash%20stats%20%F0%9F%98%8E)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamthe2ndhuman)](https://github.com/anuraghazra/github-readme-stats)
-
-This "Top Languages" thing is horrifically inaccurate because most of my projects are private and/or are in an organization :flushed:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthe2ndhuman)](https://github.com/anuraghazra/github-readme-stats)
+I refuse to include a top 5 languages card because most of my actual projects are private and therefore the card does not reflect my actual top 5 languages.
 
 
