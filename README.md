@@ -5,7 +5,7 @@ H
 I'm a 15 year old male living in a country. Shocker :scream::scream::scream::scream::scream:  
 I like programming in Python (sorry JS nerds) and I'm currently learning Dart so that's a plus.
 
-# Stuff I've (and my friends) have made
+# Stuff I (and my friends) have made
 I like to make stuff!
 
 ## Discord Bots
