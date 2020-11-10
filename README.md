@@ -1,6 +1,6 @@
 
 # Introduction
-I am a human being who lives on Earth. Funny, right?
+H
 ## About me
 I'm a 15 year old male living in a country. Shocker :scream::scream::scream::scream::scream:  
 I like programming in Python (sorry JS nerds) and I'm currently learning Dart so that's a plus.
