@@ -11,7 +11,6 @@ I like to make stuff!
 ## Discord Bots
 discord.py is epic
  - Meon ([Website](https://iamthe2ndhuman.github.io/meon)) ([top.gg](https://top.gg/bot/713066005911568424))
- - Shiba ([top.gg](https://top.gg/bot/718769183885754380))
  - I have more but they're private so go away :rage:
 ## Apps
 I'm fairly new to making apps for Android and iOS so don't expect much here for now.
