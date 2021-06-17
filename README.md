@@ -2,7 +2,7 @@
 # Introduction
 H
 ## About me
-I'm a 15 year old male living in a country :scream::scream::scream::scream::scream:  
+I'm a 16 year old male living in a country :scream::scream::scream::scream::scream:  
 I like programming in Python (sorry if you like JS) and I'm currently learning Dart so that's a plus.
 
 # Stuff I (and my friends) have made
