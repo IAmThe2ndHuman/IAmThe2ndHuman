@@ -18,7 +18,7 @@ I have some experience in making apps for Android and iOS.
 
 # Other stuff
 ## Notes
-If my commit count seems awfully low, it's because it is...:pensive: I should use this site more often..
+If my commit count seems awfully low, it's because it is...:pensive: I should use this site more often.. (also I contribute to organizations I'm in more than my own repos)
 
 I really, r e a l l y like the letter H. 
 
